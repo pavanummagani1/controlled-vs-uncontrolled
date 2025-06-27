@@ -1,6 +1,6 @@
 import React from 'react'
-import { ControlledComponents } from './controlledComponents.jsx'
-import { UncontrolledComponents } from './uncontrolledComponents.jsx'
+import { ControlledComponents } from './ControlledComponents.jsx'
+import { UncontrolledComponents } from './UncontrolledComponents.jsx'
 
 const App = () => {
   return (
